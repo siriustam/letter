@@ -23,8 +23,8 @@
 body {
 	display: flex;
 	overflow: hidden;
-	/* font-family: pixles; */
-	font-family: 'Cookie', cursive;
+	font-family: pixles;
+	/*font-family: 'Cookie', cursive;*/
 	font-size: 15px;
 	-webkit-user-select: none;
 	-moz-user-select: none;
